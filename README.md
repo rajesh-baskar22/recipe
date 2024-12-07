@@ -14,4 +14,4 @@ Base_Url : `api/recipes`
 *request and responses.
 * Proper HTTP status (404,200,500)
 
-Postman collection Database Recipe App http://localhost:3003/api/recipes
+Postman collection Database Recipe App https://recipe-ol9g.onrender.com/api/recipes  string will be worked.
